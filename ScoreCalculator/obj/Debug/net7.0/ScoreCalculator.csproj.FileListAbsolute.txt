@@ -1,0 +1,12 @@
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\obj\Debug\net7.0\ScoreCalculator.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\obj\Debug\net7.0\ScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\obj\Debug\net7.0\ScoreCalculator.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\obj\Debug\net7.0\ScoreCalculator.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\obj\Debug\net7.0\ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\bin\Debug\net7.0\ScoreCalculator.deps.json
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\bin\Debug\net7.0\ScoreCalculator.dll
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\bin\Debug\net7.0\ScoreCalculator.pdb
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\obj\Debug\net7.0\ScoreCalculator.dll
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\obj\Debug\net7.0\refint\ScoreCalculator.dll
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\obj\Debug\net7.0\ScoreCalculator.pdb
+C:\Users\User\RiderProjects\Scores\ScoreCalculator\obj\Debug\net7.0\ref\ScoreCalculator.dll
